@@ -1,0 +1,19 @@
+Landing Page Ideas: 
+
+1. https://github.com/saas-js/saas-ui-nextjs-landing-page 
+ Demo: https://saas-ui-nextjs-landing-page.netlify.app/
+
+2. https://github.com/Siumauricio/landing-template-nextui
+Demo: https://landing-template-nextui.vercel.app/
+
+
+3. https://github.com/hqasmei/chakra-ui-and-nextjs-landing-page
+Demo: https://chakra-ui-and-nextjs-landing-page.vercel.app/
+
+
+4. https://github.com/christian-luntok/nutritrack
+Demo: https://www.nutritrack.avenuelabs.co/
+
+
+5. https://github.com/SkyCaptainess/Nextjs-tailwind-landing-page
+Demo: https://cruip.com/simple/
