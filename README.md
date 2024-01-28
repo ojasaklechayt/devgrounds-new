@@ -1,4 +1,4 @@
-[# Devgrounds
+ Devgrounds
 
 This is a project where we will be uniting the coders/develoeprs across the globe to express their views/problems in a common global forum.
 
@@ -32,4 +32,4 @@ We will be using https://gitmoji.dev/ for adding emojis before and after the com
 * 🍻 : Code written but need some help/ \[Written code drunkenly\], according to docs
 * 🥅 : Finding an error/bug
 * 🧑‍💻 : Upgrading dev experience
-](<../devground frontend/devgrounds/README.md>)# devgrounds-new
+  ](<../devground frontend/devgrounds/README.md>)# devgrounds-new
