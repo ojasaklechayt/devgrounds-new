@@ -1,4 +1,4 @@
-#  Devgrounds
+ Devgrounds
 
 This is a project where we will be uniting the coders/develoeprs across the globe to express their views/problems in a common global forum.
 
