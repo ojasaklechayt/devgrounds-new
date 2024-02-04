@@ -3,7 +3,7 @@ import Head from "next/head";
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 import SectionTitle from "../components/sectionTitle";
-
+import CategoryList from "../components/categoryList";
 import { benefitOne, benefitTwo } from "../components/data";
 import Video from "../components/video";
 import Benefits from "../components/benefits";
@@ -27,6 +27,7 @@ const Home = () => {
 
       <Navbar />
       <Hero />
+      <CategoryList />
       <SectionTitle
         pretitle="DevGround Benefits"
         title=" Why should you use this landing page">
